@@ -1,5 +1,27 @@
 .App {
+  display: block;
   text-align: center;
+  margin: .2cm;
+
+}
+
+.input {
+  display: block;
+  text-align: center;
+  margin: .2cm;
+}
+
+.selectBox {
+  display: block;
+  text-align: center;
+  margin: .2cm;
+
+}
+
+.calc_button {
+  display: block;
+  margin: .2cm;
+
 }
 
 .App-logo {
